@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.list-group-item {
+    border: none !important;
+}
+
+a {
+    cursor: pointer ;
+}
+
+.display-on {
+    display: block;
+}
